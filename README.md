@@ -14,6 +14,8 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 </p>
 
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=nodejs-gostack-challenge&uri=https%3A%2F%2Fraw.githubusercontent.com%2Frodrigo-aguiar%2Fnodejs-gostack-challenge%2Fmaster%2Finsomnia.json)
+
 ## :rocket: Sobre o desafio
 
 Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no Node.js!
